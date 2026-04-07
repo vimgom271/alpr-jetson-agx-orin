@@ -36,7 +36,7 @@ What I Learned
 This project required a deep understanding of real-time video analytics pipelines, model optimization for edge deployment, ARM-based system configuration, and debugging complex integration issues across CUDA, TensorRT, and DeepStream.
 
 Download my model here
-
+https://drive.google.com/drive/folders/1XX6_4lqP1xI_jduwfrekJflOI7vIXjeR?usp=sharing
 
 Author
 Vimal Gomathisankar
